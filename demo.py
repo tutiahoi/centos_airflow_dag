@@ -1,1 +1,1 @@
-print("updat lan n")
+print("updat lan 1")
