@@ -1,1 +1,1 @@
-print("hello 123")
+print("updat lan n")
